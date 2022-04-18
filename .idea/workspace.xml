@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd46b814-5789-4271-a6c6-e58254cc0574" name="Changes" comment="exercicios de treinamento">
+    <list default="true" id="bd46b814-5789-4271-a6c6-e58254cc0574" name="Changes" comment="o método calculoAreaModoCompacto foi corrigido&#10;&#10;o método main agora chama os 2 métodos calcular* que passaram também a ser static">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/intro/Medidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intro/Medidas.java" afterDir="false" />
     </list>
@@ -79,7 +79,7 @@
       <updated>1649892419436</updated>
       <workItem from="1649892442122" duration="5188000" />
       <workItem from="1649942553539" duration="12459000" />
-      <workItem from="1650295652888" duration="4414000" />
+      <workItem from="1650295652888" duration="23113000" />
     </task>
     <task id="LOCAL-00001" summary="exercicios de treinamento">
       <created>1649956219901</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649956219901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="o método calculoAreaModoCompacto foi corrigido&#10;&#10;o método main agora chama os 2 métodos calcular* que passaram também a ser static">
+      <created>1650301110355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650301110355</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercicios de treinamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios de treinamento" />
+    <MESSAGE value="o método calculoAreaModoCompacto foi corrigido&#10;&#10;o método main agora chama os 2 métodos calcular* que passaram também a ser static" />
+    <option name="LAST_COMMIT_MESSAGE" value="o método calculoAreaModoCompacto foi corrigido&#10;&#10;o método main agora chama os 2 métodos calcular* que passaram também a ser static" />
   </component>
 </project>
